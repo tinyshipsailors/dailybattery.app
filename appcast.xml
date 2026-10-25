@@ -5,5 +5,19 @@
     <link>https://github.com/tinyshipsailors/dailybattery.app</link>
     <description>Daily Battery changelog</description>
     <language>en</language>
+    <item>
+      <title>Version 1.8.0</title>
+      <description><![CDATA[<p><strong>What's New</strong></p><ul><li>First public release of Daily Battery: your day shown as a battery, draining block by block so you always see how much of it is left</li><li>Three ways to show it: a pill under the notch (Top Notch), in the menu bar, or a floating bar on your desktop</li><li>Plan your day with named, color-coded time blocks; overlapping blocks are caught before you save them</li><li>Built-in Pomodoro for each block, with a full-screen break reminder when it's time to rest</li><li>Double-click the battery to hide it for a while, and turn on Launch at Login so it's there every morning</li><li>Updates now arrive automatically, or check any time from Check for Updates… in the menu bar menu or the About window</li><li>Runs on macOS 14 Sonoma and later</li></ul>]]></description>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 25 Oct 2026 23:31:48 +0000</pubDate>
+      <enclosure
+        url="https://github.com/tinyshipsailors/dailybattery.app/releases/download/v1.8.0/DailyBattery-1.8.0.dmg"
+        sparkle:edSignature="8DdWOi+v2rWpYZZo5fNX17UDN0cLb0vAgIeQA8a1XOqiS6p/iiVus+fgPktlpm3pqZ8X1SUI3s5shSH615y2CQ=="
+        length="5618506"
+        type="application/octet-stream"
+      />
+    </item>
   </channel>
 </rss>
